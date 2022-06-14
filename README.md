@@ -8,8 +8,8 @@
 <br>
 <div align="left">
   <a href="https://github.com/israelbousquet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelbousquet&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelbousquet&layout=compact&langs_count=7&theme=radical"/>
+  <img height="165em"; src="https://github-readme-stats.vercel.app/api?username=israelbousquet&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelbousquet&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -28,6 +28,6 @@
  
 <br>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/israelbousquet/israelbousquet/blob/output/github-contribution-grid-snake.svg)
  
 </div>
