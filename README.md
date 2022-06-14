@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com Social Media e Desenvolvimento Web Wordpress
 - 🌱 Estou estudando Front-End
 - 📫 Contate-me no email: israelbousquet@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <br>
 <div align="left">
