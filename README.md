@@ -1,4 +1,4 @@
-## Olá! Eu sou o Israel Bousquet👋
+## Olá! Eu sou o Israel Bousque👋
 
 - 🔭 Atualmente trabalho com Social Media e Desenvolvimento Web Wordpress
 - 🌱 Estou estudando Front-End
