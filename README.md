@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Israel Bousquet👋
 
-- 🔭 Atualmente trabalho com Social Media e Desenvolvimento Web Wordpress
-- 🌱 Estou estudando Front-End
+- 🔭 Atualmente trabalho como Desenvolvedor Front-End Trainee na Info Sistemas
 - 📫 Contate-me no email: israelbousquet@gmail.com
 - 😄 Pronomes: ele/dele
 
