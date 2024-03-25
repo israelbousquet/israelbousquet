@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-End Trainee na Info Sistemas
 - 📫 Contate-me no email: israelbousquet@gmail.com
-- 😄 Pronomes: ele/dele
 
 <br>
 
